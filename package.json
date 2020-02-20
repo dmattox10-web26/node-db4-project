@@ -1,0 +1,13 @@
+{
+  "name": "node-db4-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dmattox10-web26/node-db4-project.git",
+  "author": "Daniel Mattox <dmattox10@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.20.10",
+    "knex-cleaner": "^1.3.0",
+    "sqlite3": "^4.1.1"
+  }
+}
